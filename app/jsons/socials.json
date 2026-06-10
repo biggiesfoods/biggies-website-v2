@@ -1,0 +1,18 @@
+{
+  "Facebook": {
+    "href": "https://www.facebook.com/61575824183652",
+    "src": "/assets/icons/facebook.svg"
+  },
+  "Instagram": {
+    "href": "https://www.instagram.com/biggiesgourmet",
+    "src": "/assets/icons/instagram.svg"
+  },
+  "Tik Tok": {
+    "href": "https://www.tiktok.com/@biggiesgourmet",
+    "src": "/assets/icons/tiktok.svg"
+  },
+  "X": {
+    "href": "",
+    "src": "/assets/icons/x.svg"
+  }
+}

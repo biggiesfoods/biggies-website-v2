@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: var(--font-p);
+}
+
+:root {
+  --brand-white: #fff4f2;
+  --brand-black: #211e1f;
+  --brand-color-1-l: #d41f33;
+  --brand-color-1-d: #d41f33;
+  --duration-animate: 300ms;
+  --header-text-color: var(--brand-color-1-l);
+  --text-color: 0 0 0;
+}
+
+.dark {
+  --header-text-color: var(--brand-color-1-d);
+  --text-color: 255 255 255;
+}
+
+section {
+  position: relative;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply transition-colors;
+  transition-duration: var(--duration-animate);
+  color: var(--header-text-color);
+  font-family: var(--font-header);
+}
+
+h1 {
+  @apply transition-colors;
+  transition-duration: var(--duration-animate);
+  color: var(--header-text-color);
+  font-family: var(--font-header-1);
+}
+
+p {
+  @apply transition-colors;
+  transition-duration: var(--duration-animate);
+}

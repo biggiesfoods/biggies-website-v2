@@ -1,0 +1,127 @@
+{
+  "sandwiches": [
+    {
+      "item": "Steak Deluxe",
+      "price": 15.0,
+      "description": "Premium rib-eye steak, garlic aioli, mustard, sauteed onion, lettuce",
+      "image": "steak-deluxe"
+    },
+    {
+      "item": "Biggies Steak",
+      "price": 15.0,
+      "description": "Premium rib-eye, biggie sauce, fries, lettuce",
+      "image": "biggies-steak"
+    },
+    {
+      "item": "Spit Roasted Porchetta",
+      "price": 12.0,
+      "description": "12 hour roasted porchetta, garlic aioli, mustard, sauteed onion, arugula",
+      "image": "porchetta"
+    },
+    {
+      "item": "Southern Fried Buttermilk Chicken",
+      "price": 13.0,
+      "description": "Crispy fried chicken, garlic aioli, lettuce, tomato, onion, choice of mild or spicy garlic sauce",
+      "image": "buttermilk-chicken"
+    },
+    {
+      "item": "Crispy Hoisin Chicken",
+      "price": 13.0,
+      "description": "Fried buttermilk chicken, hoisin aioli, pickled veg, lettuce",
+      "image": "crispy-hoisin-chicken"
+    },
+    {
+      "item": "Grilled Chicken",
+      "price": 12.5,
+      "description": "Grilled chicken breast, garlic aioli, lettuce, tomato, onion",
+      "image": "grilled-chicken"
+    },
+    {
+      "item": "Shrimp Poboy",
+      "price": 12.0,
+      "description": "Breaded shrimp, remoulade, garlic aioli, lettuce, tomato, onion",
+      "image": "shrimp-poboy"
+    },
+    {
+      "item": "Southwest Poboy",
+      "price": 13.0,
+      "description": "Breaded shrimp, creamy chipotle slaw, garlic aioli",
+      "image": "southwest-poboy"
+    },
+    {
+      "item": "Pulled Pork",
+      "price": 12.0,
+      "description": "Roasted pork tossed in sweet and tangy BBQ sauce, creamy slaw",
+      "image": "pulled-pork"
+    }
+  ],
+  "plates": [
+    {
+      "item": "Custom Protein Plate",
+      "price": {
+        "small": 15.0,
+        "large": 18.0
+      },
+      "description": "Protein options: Steak, Buttermilk Chicken, Porchetta, Pulled Pork, Shrimp, Grilled Chicken. Includes 2 sides and a sauce",
+      "image": "plate"
+    },
+    {
+      "item": "Chicken Bites",
+      "price": 13.0,
+      "description": "Crispy chicken tenders tossed in any sauce of your choice, finished with garlic aioli on a bed of fries",
+      "image": "chicken-bites"
+    }
+  ],
+  "sides": [
+    {
+      "item": "Fries",
+      "price": { "small": 5.0, "large": 7.0 },
+      "description": "Seasoned crispy fries",
+      "image": ""
+    },
+    {
+      "item": "Poutine",
+      "price": { "small": 6.0, "large": 8.0 },
+      "description": "Classic fries with cheese curds and gravity",
+      "image": ""
+    },
+    {
+      "item": "Garlic Potatoes",
+      "price": { "small": 6.0, "large": 8.0 },
+      "description": "Roasted potatoes with garlic seasoning",
+      "image": ""
+    },
+    {
+      "item": "Seasoned Rice",
+      "price": { "small": 6.0, "large": 8.0 },
+      "description": "Flavourful seasoned rice",
+      "image": ""
+    },
+    {
+      "item": "Slaw",
+      "price": { "small": 6.0, "medium": 8.0, "large": 12.0 },
+      "description": "Creamy house-made coleslaw",
+      "image": ""
+    }
+  ],
+  "drinks": [
+    {
+      "item": "Pop",
+      "price": 1.5,
+      "description": "",
+      "image": ""
+    },
+    {
+      "item": "Water",
+      "price": 2,
+      "description": "",
+      "image": ""
+    },
+    {
+      "item": "Bottled Soda",
+      "price": 2.5,
+      "description": "",
+      "image": ""
+    }
+  ]
+}

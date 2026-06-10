@@ -1,0 +1,11 @@
+{
+  "name": "Biggie's Gourmet",
+  "address": {
+    "street": "4120 Dixie Road unit 2",
+    "city": "Mississauga, ON",
+    "zip": "L4W 4V8"
+  },
+  "email": "biggiegourmetfoods@gmail.com",
+  "phone_number": "905-212-9393",
+  "position": [43.62405, -79.606178]
+}

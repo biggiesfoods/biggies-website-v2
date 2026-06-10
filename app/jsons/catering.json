@@ -1,0 +1,34 @@
+[
+  {
+    "item": "Garlic Potato Tray",
+    "price": 30.0,
+    "description": "Large catering tray of signature roasted garlic potatoes.",
+    "image": ""
+  },
+  {
+    "item": "Salad Tray",
+    "price": 35.0,
+    "description": "Choice of Greek or Caesar salad tray.",
+    "image": ""
+  },
+  {
+    "item": "Seasoned Rice Tray",
+    "price": 30.0,
+    "description": "Large tray of signature seasoned rice.",
+    "image": ""
+  },
+  {
+    "item": "Porchetta by the Pound",
+    "price": 18.0,
+    "unit": "lb",
+    "description": "12-hour slow roasted herb-seasoned pork.",
+    "image": ""
+  },
+  {
+    "item": "Whole Roasted Chicken",
+    "price": 18.0,
+    "unit": "chicken",
+    "description": "Whole spit-roasted chickens (Minimum order of 2 chickens).",
+    "image": ""
+  }
+]
