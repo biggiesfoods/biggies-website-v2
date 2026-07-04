@@ -102,6 +102,18 @@
       "price": { "small": 6.0, "medium": 8.0, "large": 12.0 },
       "description": "Creamy house-made coleslaw",
       "image": ""
+    },
+    {
+      "item": "Greek",
+      "price": { "small": 8.0, "large": 12.0 },
+      "description": "",
+      "image": ""
+    },
+    {
+      "item": "Caesar",
+      "price": { "small": 8.0, "large": 12.0 },
+      "description": "",
+      "image": ""
     }
   ],
   "drinks": [
